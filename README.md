@@ -7,7 +7,7 @@
 * Job : Student  
 * Position : BackEnd  
 * Email : lhj9242@naver.com
-* <a href="instagram.com/hyukj0_0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+* <a href="https://instagram.com/hyukj0_0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   
   
 ***
