@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=4B5E40&height=300&section=header&text=Welcome&fontSize=90)
 
 # Info
   
-* Name : 이혁주
+* Name : HyukJoo Lee
 * Age : 24  
 * Job : Student  
 * Position : Back-End  
@@ -34,4 +34,4 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 
 ***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kh4B1&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kh4B1&show_icons=true&bg_color=00000000)
